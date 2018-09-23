@@ -1,0 +1,13 @@
+{
+  "name": "name.klep.homey-broadcaster",
+  "version": "1.0.0",
+  "description": "Homey Broadcaster",
+  "main": "app.js",
+  "dependencies": {
+    "athom-api": "^2.0.126",
+    "mqtt": "^2.18.8"
+  },
+  "devDependencies": {},
+  "author": "Robert Klep <robert@klep.name>",
+  "license": "MIT"
+}
